@@ -9,3 +9,9 @@ How is the staging area different from the working directory and the repository?
 
 How can you use the staging area to make sure you have one commit per logical change?
 	after doing many changes , files are in the working directory. now before making one commit per logical change , we first stage the desired files in the staging area . now , committing the changes will make a single commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	branches are helpful when we want different modes of our work.
+
+How do the diagrams help you visualize the branch structure?
+	in the diagram , a certain branche with its commits are linked together using lines and arrows . any other branch which gets initiated from a particular commit is also visible in the diagram.

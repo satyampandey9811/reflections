@@ -32,5 +32,7 @@ could break something?
     using various features of the version control has made me more confident in avoiding the mistakes that could break something.
 
 Now that you have your workspace set up, what do you want to try using Git for?
+    
+    i want to review the commit history.
 
     to study about its various commands and functions.

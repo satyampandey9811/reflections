@@ -1,3 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
 	a .git folder is created which shows that a repository has been created.
 	need - a repository stores the history of all the commits.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	initially all the files are in the working directory.after using git add command , the selected files are added in the staging area . then using git commit command sends the files into the repository.
+
+	staging area acts as a link between the working directory and the repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+	after doing many changes , files are in the working directory. now before making one commit per logical change , we first stage the desired files in the staging area . now , committing the changes will make a single commit.
